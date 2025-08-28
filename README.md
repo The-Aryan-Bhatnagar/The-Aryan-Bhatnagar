@@ -43,15 +43,15 @@ My ultimate aim is to build solutions that simplify work, empower teams, and mak
 ## 🔧 Technical Skills  
 
 - **Programming & Databases**: Python | SQL | R | MySQL | DBMS/RDBMS
-- 
+  
 - **Data Analytics & BI Tools**: Power BI | Tableau | Excel | Google Sheets
--  
+  
 - **Data Science Concepts**: Data Cleaning | Data Visualization | Exploratory Data Analysis (EDA) | Descriptive/Diagnostic/Predictive Analysis | ETL Processes
-- 
+  
 - **Libraries & Frameworks**: Pandas | NumPy | Matplotlib | Plotly
 
 - **Version Control & Collaboration**: GitHub
-- 
+  
 - **Soft Skills**: Problem-Solving, Communication | Team Collaboration | Attention to Detail  
   
 
