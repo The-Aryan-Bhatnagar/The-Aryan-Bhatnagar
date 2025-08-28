@@ -48,7 +48,9 @@ My ultimate aim is to build solutions that simplify work, empower teams, and mak
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/The-aryanbhatnagar)  
 - 📂 [GitHub Portfolio](https://github.com/The-Aryan-Bhatnagar)  
+- 📸 [Instagram](https://www.instagram.com/bhatnagararyan2601)  
 - 📧 Email: **aaryanbhatnagar04@gmail.com**  
+ 
 
 ---
 
