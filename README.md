@@ -1,4 +1,4 @@
-# 🌸 Hey there, I’m Aryan Bhatnagar!  
+🚗 Hey there, I’m Aryan Bhatnagar!  
 
 Welcome to my little corner of GitHub!  
 I’m passionate about growing in my career, picking up new tech skills, and turning raw data into **insights that tell stories**.  
