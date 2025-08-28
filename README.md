@@ -44,13 +44,13 @@ My ultimate aim is to build solutions that simplify work, empower teams, and mak
 
 
 
-
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/The-aryanbhatnagar)  
-- 📂 [GitHub Portfolio](https://github.com/The-Aryan-Bhatnagar)  
-- 📸 [Instagram](https://www.instagram.com/bhatnagararyan2601)  
-- 📧 Email: **aaryanbhatnagar04@gmail.com**  
- 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/The-aryanbhatnagar)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-Aryan-Bhatnagar)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhatnagararyan2601)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryanbhatnagar04@gmail.com)  
+
 
 ---
 
