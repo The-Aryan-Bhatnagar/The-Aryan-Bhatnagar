@@ -5,9 +5,10 @@ I’m passionate about growing in my career, picking up new tech skills, and tur
 Here, you’ll find:  
 
 🛠️ Projects I’m building or contributing to  
-📊 Dashboards & analytics that simplify decision-making  
-📚 Things I’ve learned while juggling work, deadlines, and debugging  
-🌱 Bits of inspiration for anyone trying to survive—and thrive—in the data world  
+🔍 Data projects where I dive into real-world problems and uncover insights
+📊 Interactive dashboards that transform numbers into stories
+📚 Lessons learned while exploring analytics, coding, and problem-solving
+🌱 Motivation & growth tips from my journey in tech and beyond
 
 Whether you're here to find useful code, check out dashboards, or just see how I’m figuring it all out—you’re in the right place! 🫶  
 
